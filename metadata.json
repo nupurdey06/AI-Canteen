@@ -1,0 +1,6 @@
+{
+  "name": "AI College Canteen Recommendation System",
+  "description": "An intelligent campus dining assistant recommending personalized meal combinations using Gemini based on student budget, time constraints, mood, and dietary preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
